@@ -16,8 +16,8 @@ Seaborn
   * Data Cleaning & Handling Missing Values
   * Exploratory Data Analysis (EDA)
   * Survival analysis based on:
-    Gender
-    Passenger Class
+    Gender,
+    Passenger Class,
     Age Groups
   * Data Visualization using graphs and charts
     
