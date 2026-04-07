@@ -7,10 +7,10 @@ This project focuses on analyzing the famous Titanic Dataset to uncover patterns
 The goal of this project is to explore the dataset, perform data cleaning, and visualize key factors that influenced survival rates such as age, gender, class, and fare.
 
 3) Technologies Used :
-Python
-Pandas
-Matplotlib
-Seaborn
+  * Python
+  * Pandas
+  * Matplotlib
+  * Seaborn
 
 5) Key Analysis Performed :
   * Data Cleaning & Handling Missing Values
